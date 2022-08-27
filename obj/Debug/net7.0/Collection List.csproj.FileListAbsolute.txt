@@ -1,0 +1,15 @@
+C:\Users\Dell\desktop\c#\Collection List\bin\Debug\net7.0\Collection List.exe
+C:\Users\Dell\desktop\c#\Collection List\bin\Debug\net7.0\Collection List.deps.json
+C:\Users\Dell\desktop\c#\Collection List\bin\Debug\net7.0\Collection List.runtimeconfig.json
+C:\Users\Dell\desktop\c#\Collection List\bin\Debug\net7.0\Collection List.dll
+C:\Users\Dell\desktop\c#\Collection List\bin\Debug\net7.0\Collection List.pdb
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.csproj.AssemblyReference.cache
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.AssemblyInfoInputs.cache
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.AssemblyInfo.cs
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.csproj.CoreCompileInputs.cache
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.dll
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\refint\Collection List.dll
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.pdb
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\Collection List.genruntimeconfig.cache
+C:\Users\Dell\desktop\c#\Collection List\obj\Debug\net7.0\ref\Collection List.dll
